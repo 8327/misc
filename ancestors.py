@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# prints the name and pid of this process, the name and pid of its parent, 
+# the name and pid of its grandparent, and so on
+
 import os
 import sys
 
